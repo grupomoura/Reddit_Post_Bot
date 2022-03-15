@@ -1,0 +1,3 @@
+pyautoguy
+selenium
+webdriver_manager
